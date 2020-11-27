@@ -1,0 +1,11 @@
+{
+  "name": "webpack-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Starlight Romero",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.8.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
